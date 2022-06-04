@@ -1,4 +1,4 @@
-<h3> Name and Last name
+Name and Last name <h3>
 Valentina Kozak
 <h3> Contacts 
 +375295284375
